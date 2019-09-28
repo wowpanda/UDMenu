@@ -4,15 +4,15 @@
 > The UD Menu (Universal Development Menu) is a useful 'M' Menu that will help all roleplaying servers with it's various features for LEO to Civilians. This is just the first version of the menu, more features are to come very soon.
 
 ## Key Features
-* Law Enforcement Racking System
-* Civilian Character Name / Hand ID System
-* Twotter (Twitter) System
-* Vehicle Controls
+* Law Enforcement Racking System.
+* Civilian Character Name / Hand ID System.
+* Twotter (Twitter) System.
+* Vehicle Controls.
 
 ## Upcoming Features
-* PED & Vehicle Inventory
-* LEO PED / EUP Uniform Spawner
-* Emotes
+* PED & Vehicle Inventory.
+* LEO PED / EUP Uniform Spawner.
+* Emotes.
 
 ## Pictures
 ![alt text](http://i.devdawson.xyz/qg33r87y.png "Image 1")
