@@ -25,6 +25,7 @@
 
 ## Requirements
 > [Wraith RS](https://forum.fivem.net/t/release-wraithrs-advanced-radar-system-1-0-2/48543) is required for the "Toggle Radar" button in the LEO sub-menu.
+
 > [NativeUI Lua](https://forum.fivem.net/t/release-dev-nativeuilua/98318) is required for the menu all-together.
 
 **- DevDawson - Universal Development.**
