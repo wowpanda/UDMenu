@@ -23,4 +23,4 @@
 ## Documentation
 > [Documentation.](https://devdawson.xyz/docs/ud-menu)
 
-**-- DevDawson - Universal Development**
+**- DevDawson - Universal Development.**
