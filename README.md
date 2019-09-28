@@ -23,4 +23,7 @@
 ## Documentation
 > [Documentation.](https://devdawson.xyz/docs/ud-menu)
 
+## Requirements
+> [Wraith RS](https://forum.fivem.net/t/release-wraithrs-advanced-radar-system-1-0-2/48543) is required for the "Toggle Radar" button in the LEO sub-menu.
+
 **- DevDawson - Universal Development.**
