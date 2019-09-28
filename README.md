@@ -20,9 +20,6 @@
 ![alt text](http://i.devdawson.xyz/2b9zvwfa.png "Image 3")
 ![alt text](http://i.devdawson.xyz/m0qcqa0h.png "Image 4")
 
-## Download
-> [Github.](https://github.com/Mart475/Optimized-3D-ME-Script)
-
 ## Documentation
 > [Documentation.](https://devdawson.xyz/docs/ud-menu)
 
